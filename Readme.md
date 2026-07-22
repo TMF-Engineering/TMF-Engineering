@@ -4,10 +4,6 @@
 
 <img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="300"/>
 
-<br/>
-
-<i>Engineering, built by people who still remember deadline night.</i>
-
 <br/><br/>
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -68,5 +64,7 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&section=footer" width="100%"/>
 
 <div align="center">
+
+<i>Engineering, built by people who still remember deadline night.</i>
 <sub>© 2026 TMF Engineerings. All rights reserved.</sub>
 </div>
