@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header&text=TMF%20Engineerings&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Engineering,%20built%20by%20people%20who%20still%20remember%20deadline%20night.&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://www.tmfengineering.workers.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/src/images/logo/logo.png" alt="TMF Engineering Logo" width="260"/>
-</a>
+<img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/src/images/logo/logo.png" alt="TMF Engineerings" width="84"/>
 
 <br/><br/>
 
@@ -15,7 +13,7 @@
 <br/><br/>
 
 <a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://cdn.simpleicons.org/facebook" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/923111636350" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" width="34" height="34"/></a>&nbsp;&nbsp;
@@ -27,11 +25,9 @@
 
 ## About Us
 
-TMF Engineering is a Karachi-headquartered engineering studio. We design, build, document, and explain university engineering projects — from a single OEL to a complete FYDP — and take on client and company engineering work as well.
+TMF Engineerings is a Karachi-headquartered engineering studio. We design, build, document and explain university engineering projects — from a single OEL to a complete FYDP — and take on client and company engineering work as well.
 
 Every deliverable is built in-house by our own engineers, backed by proper documentation, and explained in full so it can be understood and defended with confidence — not just handed over.
-
-<br/>
 
 ## What We Do
 
@@ -43,25 +39,13 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 - **Chemical Engineering** — process design, plant simulation
 - **Civil Engineering** — structural design, surveying, planning
 
-<br/>
-
 ## Why Work With Us
 
-- **In-house engineers, not resellers** — every deliverable comes from our own team
-- **Full documentation** — formatted to your university's requirements
-- **Walkthroughs before your defense or viva**, so you understand the work
-- **Every major engineering field** covered under one team
-- **Karachi-based** and reachable directly by call, WhatsApp, or email
-
-<br/>
-
-## Our Process
-
-1. **Consultation** — share your project requirements or ask us for ideas
-2. **Design & Development** — our engineers build the solution in-house
-3. **Documentation** — reports, diagrams, and write-ups prepared to spec
-4. **Walkthrough** — we explain the project so you can defend it confidently
-5. **Delivery** — final handover with full support
+- In-house engineers, not resellers — every deliverable comes from our own team
+- Full documentation, formatted to your university's requirements
+- Walkthroughs before your defense or viva, so you understand the work
+- Every major engineering field covered under one team
+- Karachi-based and reachable directly by call, WhatsApp or email
 
 <br/>
 
@@ -80,5 +64,5 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&section=footer"/>
 
 <div align="center">
-<sub>© 2026 TMF Engineering. All rights reserved.</sub>
+<sub>© 2026 TMF Engineerings. All rights reserved.</sub>
 </div>
