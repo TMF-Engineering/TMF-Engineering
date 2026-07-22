@@ -61,7 +61,7 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&lenght=100&section=footer"/>
 
 <div align="center">
 <sub>© 2026 TMF Engineerings. All rights reserved.</sub>
