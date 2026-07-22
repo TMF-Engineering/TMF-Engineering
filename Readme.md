@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header&text=TMF%20Engineerings&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Engineering,%20built%20by%20people%20who%20still%20remember%20deadline%20night.&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/src/images/logo/logo.png" alt="TMF Engineerings" width="84"/>
+<img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="84"/>
 
 <br/><br/>
 
