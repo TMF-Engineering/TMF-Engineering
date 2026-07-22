@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header&text=TMF%20Engineerings&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Engineering,%20built%20by%20people%20who%20still%20remember%20deadline%20night.&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header" width="100%"/>
 
-<img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="84"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/dist/images/logo/logo.png" width="180"/>
+
+<br/>
+
+<i>Engineering, built by people who still remember deadline night.</i>
 
 <br/><br/>
 
@@ -12,12 +18,12 @@
 
 <br/><br/>
 
-<a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://cdn.simpleicons.org/facebook" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://wa.me/923111636350" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.tmfengineering.workers.dev/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome" width="34" height="34"/></a>
+<a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/923111636350" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.tmfengineering.workers.dev/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="34" height="34"/></a>
 
 </div>
 
@@ -61,7 +67,7 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&lenght=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <sub>© 2026 TMF Engineerings. All rights reserved.</sub>
