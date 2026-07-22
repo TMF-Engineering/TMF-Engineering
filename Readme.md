@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=18&pause=1000&color=4B5C71&center=true&vCenter=true&width=600&lines=Semiconductors+%C2%B7+Electronics+%C2%B7+Cybersecurity;Software+%C2%B7+Mechanical+%C2%B7+Chemical+%C2%B7+Civil;OEL+%C2%B7+CEP+%C2%B7+FYDP+%E2%80%94+Designed%2C+Built%2C+Explained." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://github.com/TMF-Engineering/TMF-Engineering/blob/main/linkedin.jpg)" width="34" height="34"/></a>&nbsp;&nbsp;
@@ -58,8 +58,6 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 <a href="https://wa.me/923111636350" target="_blank"><img src="https://img.shields.io/badge/WhatsApp%20Us-1B1F24?style=for-the-badge&logo=whatsapp&logoColor=25D366" height="40"/></a>
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8FFF,100:073F8C&height=100&section=footer" width="100%"/>
 
