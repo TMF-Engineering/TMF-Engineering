@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header" width="100%"/>
 
-<img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="340"/>
+<img src="https://github.com/TMF-Engineering/TMF-Engineering/blob/main/logo.png" width="340"/>
 
 <br/>
 
