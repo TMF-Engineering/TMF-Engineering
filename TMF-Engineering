@@ -1,8 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header&text=TMF%20Engineerings&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Engineering,%20built%20by%20people%20who%20still%20remember%20deadline%20night.&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/src/images/logo/logo.png" alt="TMF Engineerings" width="84"/>
+<a href="https://www.tmfengineering.workers.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/src/images/logo/logo.png" alt="TMF Engineering Logo" width="260"/>
+</a>
 
 <br/><br/>
 
@@ -13,12 +14,11 @@
 <br/><br/>
 
 <a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://cdn.simpleicons.org/facebook" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/923111636350" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://www.tmfengineering.workers.dev/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome" width="34" height="34"/></a>
-
 </div>
 
 <br/>
