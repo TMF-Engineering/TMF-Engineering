@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header" width="100%"/>
 
-<br/>
-
 <img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="300"/>
 
 <br/>
@@ -19,7 +17,7 @@
 <br/><br/>
 
 <a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><i class="fa-brands fa-square-linkedin"></i></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/923111636350" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="34" height="34"/></a>&nbsp;&nbsp;
 <a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34"/></a>&nbsp;&nbsp;
