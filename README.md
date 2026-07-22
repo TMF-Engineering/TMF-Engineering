@@ -12,12 +12,12 @@
 
 <br/><br/>
 
-<a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://wa.me/923111636350" target="_blank"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/></a>&nbsp;
-<a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://www.tmfengineering.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/></a>
+<a href="https://www.instagram.com/tmfengr/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/tmf-engr" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61591969294225" target="_blank"><img src="https://cdn.simpleicons.org/facebook" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/923111636350" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="mailto:info.tmfengr@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" width="34" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.tmfengineering.workers.dev/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome" width="34" height="34"/></a>
 
 </div>
 
@@ -38,24 +38,6 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 - **Mechanical Engineering** — CAD, simulation, mechatronics
 - **Chemical Engineering** — process design, plant simulation
 - **Civil Engineering** — structural design, surveying, planning
-
-## Our Stack
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
-<img src="https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Cloudflare-333333?style=flat-square&logo=cloudflare&logoColor=F38020"/>
-<img src="https://img.shields.io/badge/Render-333333?style=flat-square&logo=render&logoColor=46E3B7"/>
-</p>
-
-## Repositories
-
-- [`tmfengineering`](https://github.com/TMF-Engineering/tmfengineering) — production frontend
-- [`TMF-Engineering`](https://github.com/TMF-Engineering/TMF-Engineering) — production backend / API
 
 ## Why Work With Us
 
