@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:073F8C,100:2F8FFF&height=180&section=header" width="100%"/>
 
-<img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="300"/>
+<img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="340"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=18&pause=1000&color=4B5C71&center=true&vCenter=true&width=600&lines=Semiconductors+%C2%B7+Electronics+%C2%B7+Cybersecurity;Software+%C2%B7+Mechanical+%C2%B7+Chemical+%C2%B7+Civil;OEL+%C2%B7+CEP+%C2%B7+FYDP+%E2%80%94+Designed%2C+Built%2C+Explained." alt="Typing SVG" />
@@ -65,6 +65,6 @@ Every deliverable is built in-house by our own engineers, backed by proper docum
 
 <div align="center">
 
-<i>Engineering, built by people who still remember deadline night.</i>
+<i>Engineering, built by people who still remember deadline night.</i><br/>
 <sub>© 2026 TMF Engineerings. All rights reserved.</sub>
 </div>
