@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TMF-Engineering/tmfengineering/main/frontend/dist/images/logo/logo.png" width="180"/>
+<img src="https://github.com/TMF-Engineering/tmfengineering/blob/main/frontend/dist/images/logo/logo.png" width="180"/>
 
 <br/>
 
